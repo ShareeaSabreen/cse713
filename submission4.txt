@@ -1,0 +1,20 @@
+Overleaf link with edit access
+https://www.overleaf.com/7781445776nhbcmwwbygns
+
+Link to unlisted YouTube video:
+https://youtu.be/zC5yusXfoN0
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1Ae3e9XvLUFncfihmNSS7ZRfJ6Aa6BKyQql3wZ9xu3XA/edit#slide=id.p
+
+Project title:
+Heart disease prediction using machine learning
+
+Group Number:
+26
+
+Group Members:
+21141022 Avizid Sarkar Anik 
+20101025 Nabil Shartaj Khan
+21366004 Shareea Sabreen
+20341023 Ranan Biswas
